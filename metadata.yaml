@@ -1,0 +1,29 @@
+_repo: The-Beautiful-Miss-Brooke_34404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34404-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Zangwill, Louis
+    birthdate: 1869
+    deathdate: 1938
+    gutenberg_agent_id: '33762'
+    url: http://www.gutenberg.org/2009/agents/33762
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Zangwill
+description: ''
+gutenberg_issued: '2010-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'English fiction'
+- !lcsh 'Young women -- Fiction'
+title: The Beautiful Miss Brooke
+url: http://www.gutenberg.org/ebooks/34404
